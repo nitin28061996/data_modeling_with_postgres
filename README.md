@@ -163,4 +163,4 @@ Prerequisites:
 
 ## Authors
 
-* **Florencia Silvestre** - [Github](https://github.com/Flor91) - [LinkedIn](https://www.linkedin.com/in/florencia-silvestre-2683587b/)
+* **Nitin Sai Aditya Kandregula** - [Github](https://github.com/nitin28061996) - [LinkedIn](https://www.linkedin.com/in/nitinadityak/)
